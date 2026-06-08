@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Delivery Worthiness</string>
+    <style name="Theme.DeliveryWorthiness" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+</resources>
